@@ -1,3 +1,9 @@
+/*
+===========================================================================
+CREATED BY JEREMY BLAZE /// https://github.com/jeremyblaze/Auto-Contents-JS
+===========================================================================
+*/
+
 (function($){
 $.fn.autoContents = function(settingsOverrides){
 
